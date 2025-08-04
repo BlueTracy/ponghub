@@ -1,14 +1,11 @@
 services:
   - name: "My Pages"
     endpoints:
-      - url: "https://blog.ch3nyang.top"
-      - url: "https://file.ch3nyang.top"
-      - url: "https://til.ch3nyang.top"
-      - url: "https://mind.ch3nyang.top"
+      - url: "https://cctvlog.com"
+      - url: "https://bing.cctvlog.com"
+      - url: "https://ip.cctvlog.com"
+      - url: "https://threejs-3d.cctvlog.com"
   - name: "My Services"
     endpoints:
-      - url: "https://docker-registry.ch3nyang.top/health"
-      - url: "https://2024.ch3nyang.top/health"
-      - url: "https://docker-registry.ch3nyang.top/v2"
-        status_code: 401
-      - url: "https://2024.ch3nyang.top"
+      - url: "https://jb.cctvlog.com"
+      - url: "https://nav.cctvlog.com"
